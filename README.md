@@ -1,0 +1,1 @@
+Simple processor to transform the car list from Gran Turismo 2 found at: https://gamefaqs.gamespot.com/ps/197469-gran-turismo-2/faqs/6662 into a csv file easily readable by spreadsheet programs.

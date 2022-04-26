@@ -44,5 +44,5 @@ input_lines = txt_importer("data.txt")
 
 output_lines = processor(input_lines)
 
-with open("output.txt", "w") as file:
+with open("output.csv", "w") as file:
     file.writelines(output_lines)
