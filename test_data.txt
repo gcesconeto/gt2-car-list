@@ -1,0 +1,18 @@
+Chevrolet
+---------
+Country: USA (South City)             Yr Drv A Tuned NA    Turbo Tuned Racing
+10 entries                               Trn   MinHP MaxHP MaxHP Wt.   Wt.
+=============================================================================
+Camaro Z28 '69                        69 FR  N 313   432   ---   3020  2899
+Camaro SS '97                         97 FR  N 331   613   ---   3062  2938
+Camaro Z28 Coupe '97                  97 FR  N 303   615   ---   3062  2938
+*Camaro Z28 30th Anniversary '96      96 FR  N 303   615   ---   3062  2938
+     Awarded randomly in Super Touring Car Trophy.
+
+Corvette Sting Ray '67                67 FR  N 463   630   ---   3020  2899
+Corvette 427 Stingray '69             69 FR  N 460   617   ---   2888  2771
+Corvette Stingray '82                 82 FR  N 233   395   ---   2974  2854
+Corvette ZR-1 '95                     95 FR  N 425   642   ---   3119  2993
+Corvette Coupe '96                    96 FR  N 351   667   ---   2934  2815
+Corvette Grand Sport '96              96 FR  N 351   667   ---   2934  2815
+
